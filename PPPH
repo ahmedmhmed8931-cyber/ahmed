@@ -11,6 +11,7 @@ struct stRoundInfo
 	enWinner Winner;
 	string WinnerName;
 };
+1- اشمع يبن المتناقة
 struct stGameResults
 {
 	short GameRounds = 0;
